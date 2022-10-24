@@ -4,19 +4,18 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityakoshti&label=Profile%20views&color=0e75b6&style=flat" alt="adityakoshti" /> </p>
 
-<!-- - 🔭 I’m currently working on [DSA](Data Structures and Algoritms) -->
+### About Me :zap:
 
-- 🌱 I’m currently learning **React.js**
-
-- 👯 I’m looking to collaborate on [Frontend and Backend Development](b)
-
-- ⚡ Fun fact **How was the snow globe feeling after the storm? A little shaken**
+- Loves solving practical problems and contributing in projects.
+- Pursuing Bachelor of Technology in Computer Science at **IIT Goa** 2024
+- Worked as an **Summer Intern** at **IIT GOA** as a Backend Developer this summer. 
+- Enjoys participating in Online **Coding Competitions** on CP platforms like Codechef, Leetcode, etc.
+- An active Member of **ArchiTechs** IIT GOA - Conducted several Live Coding Workshops, etc.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/aditya koshti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya koshti" height="30" width="40" /></a>
   
-<a href="https://instagram.com/a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="a" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
