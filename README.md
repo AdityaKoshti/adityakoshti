@@ -2,6 +2,12 @@
 <h1 align="center">Hi 👋, I'm Aditya</h1>
 <h3 align="center">A Web developer as well as passionate programmer</h3>
 
+
+<br>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Developer;Competitive+Programmer;Backend+Developer)](https://git.io/typing-svg)
+<br>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityakoshti&label=Profile%20views&color=0e75b6&style=flat" alt="adityakoshti" /> </p>
 
 ### About Me :zap:
