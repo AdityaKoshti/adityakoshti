@@ -14,7 +14,8 @@
 
 - Loves solving practical problems and contributing in projects.
 - Pursuing Bachelor of Technology in Computer Science at **IIT Goa** 2024
-- Worked as an **Summer Intern** at **IIT GOA** as a Backend Developer this summer. 
+- Worked as a **Software Engineer Intern** at **ARM**.
+- Worked as **Intern** at IIT Goa **[Research Intern]**
 - Enjoys participating in Online **Coding Competitions** on CP platforms like Codechef, Leetcode, etc.
 - An active Member of **ArchiTechs** IIT GOA - Conducted several Live Coding Workshops, etc.
 
